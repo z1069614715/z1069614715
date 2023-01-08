@@ -10,3 +10,6 @@
 
 ### Project
 1. 基于pytorch实现的图像分类框架.[pytorch-classifier](https://github.com/z1069614715/pytorch-classifier)
+2. 一些关于目标检测常用的脚本.[objectdetection_script](https://github.com/z1069614715/objectdetection_script)
+3. yolo模型的热力图可视化脚本.[yolo-gradcam](https://github.com/z1069614715/yolo-gradcam)
+4. 使用pyqt5封装yolov7.[yolov7-pyqt](https://github.com/z1069614715/yolov7-pyqt)
