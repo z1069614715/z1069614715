@@ -1,5 +1,5 @@
 ### Hello,Welcome to my github!
-![visitor](https://visitor-badge.glitch.me/badge?page_id=z1069614715)
+![visitor](https://visitor-badge.laobi.icu/badge?page_id=https://github.com/z1069614715)
 ![](https://img.shields.io/badge/常用框架-Pytorch-red)
 ![](https://img.shields.io/badge/Language-Python-orange)  
 
