@@ -11,4 +11,4 @@
 ### Project
 1. 基于pytorch实现的图像分类框架.[pytorch-classifier](https://github.com/z1069614715/pytorch-classifier)
 2. 一些关于目标检测的脚本和改进思路代码.[objectdetection_script](https://github.com/z1069614715/objectdetection_script)
-3. 使用pyqt5封装yolov7.[yolov7-pyqt](https://github.com/z1069614715/yolov7-pyqt)
+3. 使用pyqt5封装yolov5、yolov7.[yolov7-pyqt](https://github.com/z1069614715/yolov7-pyqt)
