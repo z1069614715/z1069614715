@@ -13,3 +13,4 @@
 2. 一些关于目标检测的脚本和改进思路代码.[objectdetection_script](https://github.com/z1069614715/objectdetection_script)
 3. 使用pyqt5封装yolov5、yolov7.[yolov7-pyqt](https://github.com/z1069614715/yolov7-pyqt)
 4. 基于YOLOV8的实时人脸检测模型.[ultralytics-face](https://github.com/z1069614715/ultralytics-face)
+5. 基于YOLOV9集成众多创新改进.[yolov9-improve](https://github.com/z1069614715/yolov9-improve)
